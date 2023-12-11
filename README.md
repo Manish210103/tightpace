@@ -23,6 +23,6 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 - Email: manishm210103@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manishm-2101)
 - Github: [GitHub Profile](https://github.com/Manish210103)
-- Website : [My Website](https://manishm210103.github.io/tightpace)
+- Website : [My Website](http://manishm210103.github.io/tightpace)
 
 ---
