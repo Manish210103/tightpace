@@ -113,16 +113,6 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Prodigy Infotech",
-    icon: prodigy,
-    iconBg: "#E6DEDD",
-    date: "Dec 2023 - Dec 2023",
-    points: [
-      "Skills: JavaScript · Application Programming Interfaces (API) · Cascading Style Sheets (CSS) · HTML",
-    ],
-  },
-  {
     title: "Placement Representative",
     company_name: "PSG College Of Technology",
     icon: psg,
@@ -184,29 +174,33 @@ const projects = [
     source_code_link: "https://github.com/Manish210103/Virtual-Memory-Sim",
   },
   {
-    name: "Phoenix",
+    name: "Nexus AI",
     description:
-      "Developed a web application called 'Phoenix' where users can connect with each other, share their thoughts, and interact with messages known as 'tweets'.",
+      "This is a full-stack Web application built with the MERN (MongoDB, Express, React, Node.js) stack. It utilizes the Gemini API for chat bot functionality.",
     tags: [
       {
-        name: "js",
+        name: "express.js",
         color: "blue-text-gradient",
       },
       {
-        name: "php",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "sql",
+        name: "mongo",
         color: "pink-text-gradient",
       },
       {
-        name: "css",
+        name: "firebase",
         color: "blue-text-gradient",
+      },
+      {
+        name: "node",
+        color: "green-text-gradient",
       },
     ],
     image: phoenix,
-    source_code_link: "https://github.com/Manish210103/Phoenix",
+    source_code_link: "https://github.com/Manish210103/Nexus-AI",
   },
   {
     name: "SnapEdit",
